@@ -63,7 +63,7 @@ ComponentAppSeedGenerator.prototype.app = function app() {
 
   this.mkdir('lib');
 
-  // // Populate the boot directory
+  // Populate the boot directory
   this.mkdir('lib/boot');
   this.copy('lib/boot/index.js', 'lib/boot/index.js');
   this.copy('lib/boot/boot.css', 'lib/boot/boot.css');
