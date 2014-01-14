@@ -1,6 +1,6 @@
 {
   "name": "generator-component-app-seed",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A Yeoman generator for component.io apps.",
   "keywords": [
     "yeoman-generator",
