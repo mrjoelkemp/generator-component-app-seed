@@ -1,6 +1,6 @@
 {
   "name": "<%= componentName %>",
-  "description": "c<%= componentDescription %>",
+  "description": "<%= componentDescription %>",
   "version": "0.0.0",
   "local": [
     "boot"
